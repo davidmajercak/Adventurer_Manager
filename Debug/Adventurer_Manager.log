@@ -1,0 +1,6 @@
+﻿  Adventurer.cpp
+  Adventurer_Manager.cpp
+C:\Users\david\source\repos\Adventurer_Manager\Adventurer_Manager.cpp(20,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+C:\Users\david\source\repos\Adventurer_Manager\Adventurer_Manager.cpp(165,36): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+  Adventurer_Manager.vcxproj -> C:\Users\david\source\repos\Adventurer_Manager\Debug\Adventurer_Manager.exe
